@@ -93,7 +93,7 @@ h1 {
 @media screen and (max-width:1000px ) {
     .edu {
         margin-top: 10px;
-        margin-left: 0px;
+        margin-left: 20px;
         width: 447px;
         height: 300px;
     }
@@ -192,6 +192,7 @@ h1 {
     padding: 10px;
     display: inline-block;
     margin-top: 50px;
+    text-decoration:none;
 }
 
 @media screen and (max-width:1000px ) {
