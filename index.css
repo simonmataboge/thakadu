@@ -1,4 +1,7 @@
-
+ul li
+{
+    list-style:none;
+}
 .title {
     background: linear-gradient(to top right,black,deepskyblue,blue,deepskyblue);
     height: 70px;
